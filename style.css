@@ -1,0 +1,111 @@
+.banner-image{
+    padding-bottom: 50px;   
+    text-align: center;    
+    color: #f8f8f8;    
+    background: url("image/intro-bg_1.jpg") no-repeat center; 
+    background-size: cover
+}
+
+.inner-banner-image{
+    padding-top: 12%; 
+    width:100%;   
+    margin:auto;
+}
+
+.banner-content{
+    position: relative; 
+    padding-top: 6%; 
+    padding-bottom: 6%;
+    overflow:hidden;   
+    margin-bottom: 12%; 
+    background-color: rgba(0, 0, 0, 0.7);  
+    max-width: 660px;
+}
+
+.banner-content div a{
+    text-decoration: none;
+}
+
+.banner-content div a:hover{
+    color: #101010;
+    font-weight: bold;
+}
+
+.button{
+    color: #fff;    
+    background-color: #c9302c;  
+    border-color: #ac2925;  
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125); 
+    padding: 10px 16px;   
+    font-size: 18px;  
+    border-radius: 6px;
+}
+
+.col-xs-4{
+    margin-top: 40px;
+}
+footer{
+    padding: 10px;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+
+footer .container span:hover{
+   color: #c9302c;
+   cursor: pointer;
+}
+
+.row center div{
+    margin-bottom: 30px;
+}
+
+.row center div:nth-child(10) img{
+    height: 168px;
+}
+
+.content{
+    min-height: 600px;
+}
+
+.content .container .row .col-xs-4{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+
+.logout{
+    padding: 20px;
+    margin-top: 90px;
+}
+
+.loginpage{
+    padding: 20px;
+    margin-top: 90px;
+    margin-bottom: 23px;
+}
+
+.tree{
+    padding-top: 20px;
+    
+}
+.strr{
+    padding-top: 100px;
+}
+
+.success{
+    padding-top: 100px;
+}
+
+.stere{
+    padding-top: 100px;
+}
+
+.main{
+    min-height: 600px;
+}
+
+.contents{
+    padding-top: 40px;
+}
