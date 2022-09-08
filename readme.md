@@ -18,11 +18,12 @@ This project [LifeStyle Store Website]()[Front-end] is a collection of various w
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](lifestyle-bootstrap.netlify.app)
 
 * [Youtube Video Demo]()
 
-* [Source Code]()
+* [Source Code](
+https://github.com/ShubhamSingh03/LifeStyle-Store-Website)
 
 ***
 ### Built With 
