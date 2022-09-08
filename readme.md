@@ -18,7 +18,7 @@ This project [LifeStyle Store Website]()[Front-end] is a collection of various w
 
 ### Links for Project
 
-* [LIVE Project Link](lifestyle-bootstrap.netlify.app)
+* [LIVE Project Link](https://lifestyle-bootstrap.netlify.app/)
 
 * [Youtube Video Demo]()
 
