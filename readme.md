@@ -12,7 +12,7 @@
 ***
 ## Description
 
-This project [LifeStyle Store Website]()[Front-end] is a collection of various webpages for an e-commerce store and was built using Semantic HTML, CSS and **Bootstrap** from scratch. This project has various webpages including Home page, product page, cart page, settings page and so on.  This was a simple & fun-project to build while learning about bootstrap and using it's components in projects.
+This project [LifeStyle Store Website](https://lifestyle-bootstrap.netlify.app/)[Front-end] is a collection of various webpages for an e-commerce store and was built using Semantic HTML, CSS and **Bootstrap** from scratch. This project has various webpages including Home page, product page, cart page, settings page and so on.  This was a simple & fun-project to build while learning about bootstrap and using it's components in projects.
 
 ***
 
@@ -20,7 +20,7 @@ This project [LifeStyle Store Website]()[Front-end] is a collection of various w
 
 * <a href="https://lifestyle-bootstrap.netlify.app/" target="_blank">Live Project Link</a>
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/MvtEKU2GGhw)
 
 * [Source Code](https://github.com/ShubhamSingh03/LifeStyle-Store-Website)
 
@@ -103,20 +103,18 @@ This project [LifeStyle Store Website]()[Front-end] is a collection of various w
 <br>
 
 ### Checkout Portfolio & Other Projects
-<br>
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
-<br>
 
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
 * [Github](https://github.com/ShubhamSingh03)
-* [Findcoder]()
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#lifestyle-store-website)
